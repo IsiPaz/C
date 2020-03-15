@@ -24,9 +24,9 @@ Tarea 2 de Lenguajes de Programación, semestre 2019-2
 	d.tipo = 'i';
 	```
 4. Función map: Para usar la función map debe utilizar & delante de la funcion que se entrega como parametro
-   ```
+	```
 	map(p, &doble);  //doble es la función
-```
+	```
 5. Eliminar memoria: Para eliminar la memoria es necesario que use la función clear de cada lista que se inicializa dentro del main
                      y luego se necesita llamar a la funcion destructor
    
